@@ -56,7 +56,7 @@ y podrían beneficiarse al ser integradas en promociones cruzadas, también se i
 algunos patrones de consumo por temporada, donde la preferencia por categorías cambia mes a mes; comida 
 mexicana en enero, italiana en febrero, finalmente asiática y americana en marzo, esto permitiría 
 adaptar la oferta según la época del año. 
-Además, el mayor volumen de ventas se concentra entre las 12:00 y 19:00 horas, esto coincide 
+Además, el mayor volumen de ventas se concentra entre las 12:00 a 19:00 horas, esto coincide 
 con horarios laborales y escolares, representa una excelente ventana para reforzar menús especiales o combos 
 durante esas horas.
 
